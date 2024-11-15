@@ -1,2 +1,8 @@
 # 0148_Digital_Image_Processing
-XLAS 
+
+
+
+
+
+COURSE: Introduction to Digital Image Processing
+
