@@ -6,6 +6,8 @@
 
 COURSE: Introduction to Digital Image Processing
 
+Lab src: TDT University
+
 
 Opencv: https://github.com/TrungpdtE/OPENCV
 
